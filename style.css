@@ -544,7 +544,6 @@ section li::before {
 
   .navbar ul li {
     display: block;
-    /* margin: 20px 0; */
     line-height: 10px;
   }
 
@@ -563,7 +562,6 @@ section li::before {
   }
 
   .header .container {
-    /* margin-top: 150px; */
     padding: 60px 0;
     margin-bottom: 40px;
   }
@@ -577,7 +575,6 @@ section li::before {
   }
 
   footer p {
-    /* max-width: 400px; */
     padding: 10px;
   }
 }
