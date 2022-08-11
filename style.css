@@ -375,7 +375,6 @@ section li::before {
   align-items: center;
   justify-content: center;
   gap: 40px;
-  /* text-align: center; */
 }
 
 .contact .container .list a {
@@ -425,10 +424,6 @@ section li::before {
 
 .portfolio .card-container .card .content p {
   width: 310px;
-}
-
-.portfolio .card-container .card .card-image {
-  /* width: 100%; */
 }
 
 .portfolio .card-container .card img {
